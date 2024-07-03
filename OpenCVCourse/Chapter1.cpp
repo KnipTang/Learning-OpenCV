@@ -5,7 +5,7 @@
 
 //IMAGE
 /*
-void main()
+int main()
 {
 	constexpr int waitTime = 0;
 	std::string path = "Resources/test.png";
@@ -23,6 +23,8 @@ void main()
 	cv::imshow("Image", img);
 
 	cv::waitKey(waitTime);
+
+	return 0;
 }
 */
 
