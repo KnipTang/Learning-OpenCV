@@ -3,7 +3,7 @@
 #include <opencv2/imgproc.hpp>
 #include <iostream>
 
-//RESIZE AND CROP FUNCTIONS
+//DRAWING SHAPES
 
 int main()
 {
